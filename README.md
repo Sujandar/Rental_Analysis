@@ -1,4 +1,3 @@
-# FinTech-Class-3
-Activity
+# README
 
-This is to demonstrate that I have completed the Repo
+
